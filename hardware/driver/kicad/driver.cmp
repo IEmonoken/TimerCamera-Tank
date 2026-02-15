@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2026/02/08 9:38:40
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = C1;
+ValeurCmp = 0.1u;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = C2;
+ValeurCmp = 0.1u;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN1;
+ValeurCmp = B2B-PH;
+IdModule  = S2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN2;
+ValeurCmp = B6B-ZR;
+IdModule  = B6B-ZH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN3;
+ValeurCmp = B4B-PH;
+IdModule  = S4B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN4;
+ValeurCmp = B2B-PH;
+IdModule  = S2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN5;
+ValeurCmp = B2B-PH;
+IdModule  = S2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN6;
+ValeurCmp = B2B-ZR;
+IdModule  = B2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = CN7;
+ValeurCmp = B2B-ZR;
+IdModule  = B2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = I1;
+ValeurCmp = PIC16F1827T;
+IdModule  = SOP20-0.65;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = I2;
+ValeurCmp = DRV8835;
+IdModule  = DRV8835;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q1;
+ValeurCmp = IRLML6402;
+IdModule  = SOT3-0.95-GSD;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q2;
+ValeurCmp = 2SA1586;
+IdModule  = SOT3-0.65-BEC;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q3;
+ValeurCmp = 2SC4116;
+IdModule  = SOT3-0.65-BEC;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q4;
+ValeurCmp = IRLML6402;
+IdModule  = SOT3-0.95-GSD;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q5;
+ValeurCmp = 2SC4116;
+IdModule  = SOT3-0.65-BEC;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q6;
+ValeurCmp = 2SC4116;
+IdModule  = SOT3-0.65-BEC;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = Q7;
+ValeurCmp = 2SC4116;
+IdModule  = SOT3-0.65-BEC;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = chip1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = SW1;
+ValeurCmp = TACT;
+IdModule  = SW-tact;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = T1;
+ValeurCmp = VIS;
+IdModule  = vis20-g;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = T2;
+ValeurCmp = VIS;
+IdModule  = vis20-g;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = T3;
+ValeurCmp = VIS;
+IdModule  = vis20-g;
+EndCmp
+
+BeginCmp
+TimeStamp = /6987D7C1;
+Reference = T4;
+ValeurCmp = VIS;
+IdModule  = vis20-g;
+EndCmp
+
+EndListe

@@ -1,0 +1,201 @@
+# EESchema Netlist Version 1.1 created 2026/02/08 13:35:51
+(
+ ( /6988121B $noname C1 0.1u
+   (  1 GND  )
+   (  2 P_EN  )
+ )
+ ( /6988121B $noname C2 0.1u
+   (  1 VCC  )
+   (  2 GND  )
+ )
+ ( /6988121B $noname C3 10u
+   (  1 GND  )
+   (  2 VM  )
+ )
+ ( /6988121B $noname C4 0.1u
+   (  1 GND  )
+   (  2 VCC  )
+ )
+ ( /6988121B $noname CN1 B2B-PH
+   (  1 GND  )
+   (  2 VBAT  )
+ )
+ ( /6988121B $noname CN2 B6B-ZR
+   (  1 N00005  )
+   (  2 VCC  )
+   (  3 GND  )
+   (  4 N00006  )
+   (  5 N00007  )
+ )
+ ( /6988121B $noname CN3 B4B-PH
+   (  1 GND  )
+   (  2 VCC  )
+   (  3 SDA  )
+   (  4 SCL  )
+ )
+ ( /6988121B $noname CN4 B2B-PH
+   (  1 N00003  )
+   (  2 N00004  )
+ )
+ ( /6988121B $noname CN5 B2B-PH
+   (  1 N00001  )
+   (  2 N00002  )
+ )
+ ( /6988121B $noname CN6 B2B-PH
+   (  1 VM  )
+   (  2 N00016  )
+ )
+ ( /6988121B $noname CN7 B2B-PH
+   (  1 VM  )
+   (  2 N00017  )
+ )
+ ( /6988121B $noname D1 LED
+   (  1 N00012  )
+   (  2 GND  )
+ )
+ ( /6988121B $noname D2 LED
+   (  1 N00013  )
+   (  2 GND  )
+ )
+ ( /6988121B $noname I1 PIC16F1827T
+   (  1 BPAHSE  )
+   (  2 APWM  )
+   (  3 BPWM  )
+   (  4 N00005  )
+   (  5 GND  )
+   (  6 GND  )
+   (  7 A_EN  )
+   (  8 SDA  )
+   (  9 P_EN  )
+   (  10 P_SW  )
+   (  11 SCL  )
+   (  12 LED  )
+   (  13 N00007  )
+   (  14 N00006  )
+   (  15 VCC  )
+   (  16 VCC  )
+   (  17 FRONT  )
+   (  18 BACK  )
+   (  19 VP  )
+   (  20 APAHSE  )
+ )
+ ( /6988121B $noname I2 DRV8835
+   (  PAD GND  )
+   (  1 VM  )
+   (  2 N00003  )
+   (  3 N00004  )
+   (  4 N00001  )
+   (  5 N00002  )
+   (  6 GND  )
+   (  7 BPWM  )
+   (  8 BPAHSE  )
+   (  9 APWM  )
+   (  10 APAHSE  )
+   (  11 VCC  )
+   (  12 VCC  )
+ )
+ ( /6988121B $noname Q1 IRLML6402
+   (  D VCC  )
+   (  G N00000  )
+   (  S VBAT  )
+ )
+ ( /6988121B $noname Q2 2SA1586
+   (  B N00008  )
+   (  C GND  )
+   (  E N00000  )
+ )
+ ( /6988121B $noname Q3 2SC4116
+   (  B N00009  )
+   (  C N00000  )
+   (  E GND  )
+ )
+ ( /6988121B $noname Q4 IRLML6402
+   (  D VM  )
+   (  G N00010  )
+   (  S VBAT  )
+ )
+ ( /6988121B $noname Q5 2SC4116
+   (  B N00011  )
+   (  C N00010  )
+   (  E GND  )
+ )
+ ( /6988121B $noname Q6 2SC4116
+   (  B N00014  )
+   (  C N00016  )
+   (  E GND  )
+ )
+ ( /6988121B $noname Q7 2SC4116
+   (  B N00015  )
+   (  C N00017  )
+   (  E GND  )
+ )
+ ( /6988121B $noname R1 10k
+   (  1 VBAT  )
+   (  2 P_SW  )
+ )
+ ( /6988121B $noname R2 10k
+   (  1 VBAT  )
+   (  2 N00000  )
+ )
+ ( /6988121B $noname R3 10k
+   (  1 N00008  )
+   (  2 P_SW  )
+ )
+ ( /6988121B $noname R4 10k
+   (  1 P_EN  )
+   (  2 N00009  )
+ )
+ ( /6988121B $noname R5 1k
+   (  1 VCC  )
+   (  2 VP  )
+ )
+ ( /6988121B $noname R6 1k
+   (  1 VP  )
+   (  2 A_EN  )
+ )
+ ( /6988121B $noname R7 10k
+   (  1 VCC  )
+   (  2 N00005  )
+ )
+ ( /6988121B $noname R8 1k
+   (  1 LED  )
+   (  2 N00013  )
+ )
+ ( /6988121B $noname R9 10k
+   (  1 VBAT  )
+   (  2 N00010  )
+ )
+ ( /6988121B $noname R10 10k
+   (  1 N00011  )
+   (  2 P_EN  )
+ )
+ ( /6988121B $noname R11 1k
+   (  1 VM  )
+   (  2 N00012  )
+ )
+ ( /6988121B $noname R12 10k
+   (  1 N00014  )
+   (  2 FRONT  )
+ )
+ ( /6988121B $noname R13 10k
+   (  1 N00015  )
+   (  2 BACK  )
+ )
+ ( /6988121B $noname SW1 TACT
+   (  1 GND  )
+   (  2 P_SW  )
+ )
+ ( /6988121B $noname T1 VIS
+   (  1 GND  )
+ )
+ ( /6988121B $noname T2 VIS
+   (  1 GND  )
+ )
+ ( /6988121B $noname T3 VIS
+   (  1 GND  )
+ )
+ ( /6988121B $noname T4 VIS
+   (  1 GND  )
+ )
+)
+*
