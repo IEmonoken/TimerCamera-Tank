@@ -1,2 +1,2 @@
 # TimerCamera-Tank
-M5シリーズのTimerCamera-Xを搭載したタンクの製作
+M5シリーズのTimerCamera-Xを搭載したタンクを製作する。
