@@ -8,7 +8,7 @@
 1. LEDスイッチ:　タンク前後のLEDを点灯/消灯する。
 
 ## プログラミング
-Arduino IDEでコードを編集し、プログラムをTimerCameraTankにアップロードする。
+TimerCameraTankのプログラムはArduino IDEで作成しアップロードする。スケッチと同じフォルダに`TimerCametraTank.h`と`TimerCametraTank.cpp`を置く。
 
 ### 関数
 - 左右のDCモータのスピードを-255から255までの整数で設定する。0でDCモータは停止し、255で最高速度となる。また負の数値を設定するとDCモータは逆転する。
