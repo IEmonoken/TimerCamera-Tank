@@ -1,4 +1,4 @@
-# TimerCameraTankのハードウェア
+# TimerCamera-Tankのハードウェア
 TimerCameraTankの製作データを置きます。
 
 ## コンテンツ
