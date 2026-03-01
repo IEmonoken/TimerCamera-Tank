@@ -1,5 +1,5 @@
 # TimerCamera-Tankのハードウェア
-TimerCameraTankの製作データを置きます。
+TimerCamera-Tankの製作データを置きます。
 
 ## コンテンツ
 * body: 3mm厚の透明アクリル板をレーザカッターで切断し製作する。データはjwcadで作成した。
