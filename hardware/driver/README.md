@@ -1,6 +1,9 @@
 # ドライバ基板について
 ドライバ基板はTimerCameraに電源を供給し、TimerCameraからの指令に従ってタンクを動作させる。
 
+{: align="center"}
+![構成図](configuration.png)構成図
+
 ## 機能
 ドライバ基板はTimerCameraとGROVEインタフェースで接続され、I2Cデバイスとして動作する。
 1. 電源制御:　1セルのリポバッテリーを搭載し、TimerCameraに電源を供給する。またバッテリー電圧が低下したらLEDが早く点灯し充電を促す。
